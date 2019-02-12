@@ -1,0 +1,41 @@
+.main{
+  border:2px solid #CE5937;
+  background-color: GREY;
+}
+.parent{
+  border:2px solid #CE5937;
+  display: flex;
+  flex-direction: row;
+  background-color: GREY;
+  text-align: center;
+}
+.left{
+  border:2px solid #CE5937;
+  margin:1%;
+  padding:1%;
+  width:95%;
+  font-size: 100%;
+  background-color: #CBCE82;
+}
+.left img{
+  width: 60%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+}
+.right{
+  border:2px solid #CE5937;
+  margin:1%;
+  padding:1%;
+  width:95%;
+  font-size: 100%;
+  background-color: #CBCE82;
+  }
+.right img{
+  width: 60%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+  }
