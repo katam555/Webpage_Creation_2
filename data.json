@@ -1,0 +1,45 @@
+{
+  "basic":{
+    "image":"photo.jpg",
+    "name":"Katam.B",
+    "email":"naveenkatam13@gmail.com",
+    "number":"9553578198",
+    "Address":"vakalapudi vydyanagar kakinada"
+  },
+  "career":{
+    "info":"Seeking an entry-level position to begin my career in a high-level professional environment."
+
+  },
+      "education":[
+        {
+          "institute":"Pragati",
+          "degree":"Btech",
+          "passout":"2021"
+  },
+  {
+    "institute":"Narayana",
+    "degree":"Inter",
+    "passout":"2017"
+  },
+  {
+    "institute":"Aditya",
+    "degree":"SSC",
+    "passout":"2015"
+  }
+],
+"technicalskills":[
+  {
+    "info": "Languages:",
+    "details": ["c","c++","java"]
+
+  },
+  {
+    "info": "Operating systems:",
+    "details": ["windows","android","linux"]
+  },
+  {
+    "info": "Achievements:",
+    "details": ["masterorator","hydspin","AR"]
+  }
+]
+}
